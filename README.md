@@ -1,7 +1,10 @@
 ## About me
 My name is Bartosz Jaroszkowski and I am a PhD student at University of Sussex. I am currently developing numerical methods for solving fully nonlinear PDEs. After finishing my doctoral studies I am aiming to transition into software development in order combine my mathematical skills with my passion for programming.
 
-## Tools & languages
+## Where else you can find me
+[![GitHub](https://i.stack.imgur.com/tskMh.png) Github Pages](https://bjaroszkowski.github.io) &nbsp;&nbsp;&nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bartosz-jaroszkowski-a6a513202/)
+
+## Tools & Languages
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2BECE9)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2BECE9)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2BECE9)
