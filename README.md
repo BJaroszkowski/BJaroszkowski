@@ -1,5 +1,5 @@
 ## About me
-My name is Bartosz Jaroszkowski and I am a PhD student at University of Sussex. I am currently developing numerical methods for solving fully nonlinear PDEs. After finishing my doctoral studies I am aiming to transition into software development in order combine my mathematical skills with my passion for programming.
+My name is Bartosz Jaroszkowski and I have been working as pythondeveloper fot the past 2 years. I had also previously obtained PhD in mathematics at University of Sussex.
 
 ## Where else you can find me
 [![GitHub](https://i.stack.imgur.com/tskMh.png) Github Pages](https://bjaroszkowski.github.io) &nbsp;&nbsp;&nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bartosz-jaroszkowski-a6a513202/)
